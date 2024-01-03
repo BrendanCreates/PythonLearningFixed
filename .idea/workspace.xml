@@ -4,39 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c06b19b-d636-4d29-a0ad-e5fe1e974594" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2DLists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fuction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IndexOperator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KeywordArguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicOps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoopControlStatements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleAssignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NestedFunctionCalls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NestedLoops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewPython.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumberFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReturnStatement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringMethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringSlice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TypeCasting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserInput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VariableScope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifelseifelse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kwargs.py" afterDir="false" />
+    <list default="true" id="3c06b19b-d636-4d29-a0ad-e5fe1e974594" name="Changes" comment="my files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +59,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Font"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -112,6 +81,15 @@
       <option name="presentableId" value="Default" />
       <updated>1703802782062</updated>
     </task>
+    <task id="LOCAL-00001" summary="my files">
+      <option name="closed" value="true" />
+      <created>1704250530006</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704250530006</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my files" />
+    <option name="LAST_COMMIT_MESSAGE" value="my files" />
   </component>
 </project>

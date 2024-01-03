@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c06b19b-d636-4d29-a0ad-e5fe1e974594" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2DLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fuction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IndexOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeywordArguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicOps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoopControlStatements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleAssignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NestedFunctionCalls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NestedLoops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewPython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumberFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReturnStatement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringMethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringSlice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TypeCasting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserInput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VariableScope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhileLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifelseifelse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kwargs.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <branch-grouping />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2aBrOZbUTHXURHofBUvcWjSyfgq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.2DLists.executor": "Run",
+    "Python.Args.executor": "Run",
+    "Python.Dictionary.executor": "Run",
+    "Python.ForLoop.executor": "Run",
+    "Python.Fuction.executor": "Run",
+    "Python.IndexOperator.executor": "Run",
+    "Python.KeywordArguments.executor": "Run",
+    "Python.Lists.executor": "Run",
+    "Python.LogicOps.executor": "Run",
+    "Python.LoopControlStatements.executor": "Run",
+    "Python.NestedLoops.executor": "Run",
+    "Python.NewPython.executor": "Run",
+    "Python.NumberFunctions.executor": "Run",
+    "Python.ReturnStatement.executor": "Run",
+    "Python.StringMethods.executor": "Run",
+    "Python.StringSlice.executor": "Run",
+    "Python.Tuple.executor": "Run",
+    "Python.UserInput.executor": "Run",
+    "Python.WhileLoop.executor": "Run",
+    "Python.ifelseifelse.executor": "Run",
+    "Python.kwargs.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Font"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Brenb\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c06b19b-d636-4d29-a0ad-e5fe1e974594" name="Changes" comment="" />
+      <created>1703802782062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703802782062</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

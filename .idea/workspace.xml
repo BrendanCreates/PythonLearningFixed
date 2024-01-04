@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3c06b19b-d636-4d29-a0ad-e5fe1e974594" name="Changes" comment="my files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringFormat.py" beforeDir="false" afterPath="$PROJECT_DIR$/StringFormat.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,20 @@
   <component name="Git.Settings">
     <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BrendanCreates"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="38da2e3c-8094-49b6-b696-07af3704ec49" />
+        <option name="url" value="https://github.com/BrendanCreates/PythonLearningFixed.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -48,6 +63,7 @@
     "Python.NewPython.executor": "Run",
     "Python.NumberFunctions.executor": "Run",
     "Python.ReturnStatement.executor": "Run",
+    "Python.StringFormat.executor": "Run",
     "Python.StringMethods.executor": "Run",
     "Python.StringSlice.executor": "Run",
     "Python.Tuple.executor": "Run",

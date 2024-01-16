@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c06b19b-d636-4d29-a0ad-e5fe1e974594" name="Changes" comment="my files">
+      <change afterPath="$PROJECT_DIR$/CopyAFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileDetection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveAFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadAFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WriteAFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringFormat.py" beforeDir="false" afterPath="$PROJECT_DIR$/StringFormat.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +31,12 @@
     <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "BrendanCreates"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BrendanCreates&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -52,6 +59,8 @@
     "Python.2DLists.executor": "Run",
     "Python.Args.executor": "Run",
     "Python.Dictionary.executor": "Run",
+    "Python.ExceptionHandling.executor": "Run",
+    "Python.FileDetection.executor": "Run",
     "Python.ForLoop.executor": "Run",
     "Python.Fuction.executor": "Run",
     "Python.IndexOperator.executor": "Run",
@@ -59,9 +68,11 @@
     "Python.Lists.executor": "Run",
     "Python.LogicOps.executor": "Run",
     "Python.LoopControlStatements.executor": "Run",
+    "Python.MoveAFile.executor": "Run",
     "Python.NestedLoops.executor": "Run",
     "Python.NewPython.executor": "Run",
     "Python.NumberFunctions.executor": "Run",
+    "Python.ReadAFile.executor": "Run",
     "Python.ReturnStatement.executor": "Run",
     "Python.StringFormat.executor": "Run",
     "Python.StringMethods.executor": "Run",

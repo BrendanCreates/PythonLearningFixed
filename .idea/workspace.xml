@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c06b19b-d636-4d29-a0ad-e5fe1e974594" name="Changes" comment="my files">
-      <change afterPath="$PROJECT_DIR$/CopyAFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileDetection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MoveAFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadAFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WriteAFile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3c06b19b-d636-4d29-a0ad-e5fe1e974594" name="Changes" comment="my files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
